@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Run
 
 ```bash
-bash scripts/ExchangeRate.sh
+bash scripts/ETTh1.sh
 ```
 
 The dataset is downloaded to `data/` on first use. The script trains MixPTS with
